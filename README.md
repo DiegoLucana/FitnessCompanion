@@ -1,1 +1,1 @@
-# FitnessCompanion-API
+# FitnessCompanion-api
