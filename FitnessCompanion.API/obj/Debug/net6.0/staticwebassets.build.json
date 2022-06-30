@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5Z5whaaMvoWPrSxhL0t3OJdDD6XRxPMI1k4beIHswwg=",
+  "Source": "FitnessCompanion.API",
+  "BasePath": "_content/FitnessCompanion.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
