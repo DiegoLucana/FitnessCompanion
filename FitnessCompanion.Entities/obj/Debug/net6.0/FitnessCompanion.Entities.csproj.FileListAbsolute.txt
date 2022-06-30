@@ -1,0 +1,12 @@
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\bin\Debug\net6.0\FitnessCompanion.Entities.deps.json
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\bin\Debug\net6.0\FitnessCompanion.Entities.dll
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\bin\Debug\net6.0\FitnessCompanion.Entities.pdb
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\FitnessCompanion.Entities.csproj.AssemblyReference.cache
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\FitnessCompanion.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\FitnessCompanion.Entities.AssemblyInfoInputs.cache
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\FitnessCompanion.Entities.AssemblyInfo.cs
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\FitnessCompanion.Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\FitnessCompanion.Entities.dll
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\refint\FitnessCompanion.Entities.dll
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\FitnessCompanion.Entities.pdb
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Entities\obj\Debug\net6.0\ref\FitnessCompanion.Entities.dll

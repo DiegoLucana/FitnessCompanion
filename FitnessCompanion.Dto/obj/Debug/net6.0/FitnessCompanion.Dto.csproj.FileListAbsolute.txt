@@ -1,0 +1,12 @@
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\bin\Debug\net6.0\FitnessCompanion.Dto.deps.json
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\bin\Debug\net6.0\FitnessCompanion.Dto.dll
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\bin\Debug\net6.0\FitnessCompanion.Dto.pdb
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\FitnessCompanion.Dto.csproj.AssemblyReference.cache
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\FitnessCompanion.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\FitnessCompanion.Dto.AssemblyInfoInputs.cache
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\FitnessCompanion.Dto.AssemblyInfo.cs
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\FitnessCompanion.Dto.csproj.CoreCompileInputs.cache
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\FitnessCompanion.Dto.dll
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\refint\FitnessCompanion.Dto.dll
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\FitnessCompanion.Dto.pdb
+D:\Visual Studio\proyectos\FitnessCompanion\FitnessCompanion.Dto\obj\Debug\net6.0\ref\FitnessCompanion.Dto.dll
